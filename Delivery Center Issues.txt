@@ -1,0 +1,39 @@
+Login Page>> Password should accept only 4 digits
+Manage Team>>Pick Up & Delivery switching UI should be same as in design
+Manaage Team>>Align the Offline & Online text to center(as per design)
+Manage Team>>Increase the phonce icon symbol 
+Manage Team>>When the user select the manage team half rounded should be in white color
+Manage Team>>PickUp/Delivery text should be in capital letters
+Manage Team>> At bottom for assigned, delivery, pickup align the / lines and that line should be gray color
+Side Navigation should be same as in design
+Manage Inventory>> For supplies, Add-On, Promotions give some padding at top and bottom
+Scan>> Camera Input, Scan Details, restaurant details text should in center
+Scan>> Restaurant details section overlapping to main section
+Manage Team>> First time when the user change from pick up to delivery, that is not changing
+Scan>> Remove the rounded circle for quantity
+Scan>> user unable to locate the QR Code perfectly & When the user trying to scan the code in camera that is not showing in a correct order
+When the user login and select the back button that is redirecting to login page
+Scan>>Scan time should be in 24-Hours format
+Scan>> Item Count number should be in red color
+Scan>> Date & Time format should be same in all areas
+After contents verified that order not showing in Order in progress & in Quality Control
+In Delivery Assignment not showing the data
+Scan>> Item Count varying 
+Scan>> UI should be same as per design at Item Details & Restaurant Details
+Order Exception>> Click on order >> at right side align the user image icon
+Order Exception>> Map icon symbol should be in white color
+Order Exception>> Click on order>> Instead  of picked up showing the scanned up. Correct it
+Order Exception>> Exception Report>> Should be select only one exception
+Manage Inventory>> UI Should be same as per design
+
+
+
+
+
+
+
+
+
+
+
+	
